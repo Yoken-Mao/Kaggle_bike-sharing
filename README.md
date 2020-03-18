@@ -10,6 +10,6 @@
 ## bike_sharing_predication.ipynb 模型搭建
 
 ---
-## PPT是整个过程的简介
+## bike_predictions.csv 模型预测结果（用于参考）
 
-----
+## PPT是整个过程的简介
